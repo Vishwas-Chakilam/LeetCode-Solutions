@@ -76,6 +76,3 @@ def two_sum(nums, target):
 
 **LeetCode Problem Link:** [Two Sum](https://leetcode.com/problems/two-sum/)
 
----
-
-This format ensures that each problem is clearly documented, with a focus on the approach, code implementation, and analysis.
