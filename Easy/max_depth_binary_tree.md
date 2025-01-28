@@ -126,23 +126,6 @@ class Solution:
         
         return depth
 ```
-
----
-
-## How to Run the Code
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/<your-repository-name>.git
-   ```
-2. Navigate to the directory:
-   ```bash
-   cd <your-repository-name>
-   ```
-3. Run the code:
-   - Save the code in a Python file (e.g., `max_depth.py`).
-   - Test it with a sample binary tree.
-
 ---
 
 ## Resources
@@ -161,5 +144,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 Transforming Data into Actionable Insights and Innovative Solutions 🚀
 
 ---
-
-This README provides a clear, structured explanation of the problem, its solution, and how to work with the code in your GitHub repository.
