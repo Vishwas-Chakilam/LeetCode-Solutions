@@ -73,8 +73,8 @@ Found a better approach? Feel free to fork and submit a **pull request**! 🚀
 ---
 
 ## 📬 **Connect With Me**
-🔗 **GitHub**: [VishwasChakilam](https://github.com/Vishwas-Chakilam)  
-🔗 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/Vishwas-Chakilam)  
+🔗 **GitHub**: [Vishwas-Chakilam](https://github.com/Vishwas-Chakilam)  
+🔗 **LinkedIn**: [Vishwas-Chakilam](https://linkedin.com/in/Vishwas-Chakilam)  
 🔗 **YouTube**: [Vcode](https://www.youtube.com/@Vcode)  
 
 ⭐ **If this helped, give it a star!** 🌟
